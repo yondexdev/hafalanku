@@ -29,7 +29,6 @@ export const GrowthJourney = () => {
         ))}
 
       </div>
-
     </div>
   )
 }

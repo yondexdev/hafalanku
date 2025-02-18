@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Footer = () => {
   return (
-    <div className='mt-16 border-t-2 pt-7 pb-20 flex justify-between items-end'>
+    <div className='mt-16 border-t-2 pt-4 pb-20 flex justify-between items-end'>
       <div className='w-xs'>
         <h1 className='font-bold text-3xl text-[#495E57]'>Hafalanku.</h1>
         <p className='font-bold text-[#495E57] mt-3'>Read, study, and learn The Noble Quran.</p>
